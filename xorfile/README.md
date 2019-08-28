@@ -3,7 +3,7 @@ Python script to xor a file with a pattern
 
 **USAGE**
 ```
-XOR file by kza 2018
+XOR file by kza 2019
 Usage: xorfile.py -f <input file name> -o <output file name> -p <hex pattern>
 
 Options:
